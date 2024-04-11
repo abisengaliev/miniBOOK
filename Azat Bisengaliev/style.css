@@ -1,0 +1,25 @@
+   body{
+    margin: 0;
+   }
+   .korobka{
+    height: 100vh;
+    margin: 15px;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+   }
+   .hero{
+    display: flex;
+    background-color: ;
+   }
+   h1{
+    font-size: 100px;
+    margin: 0;
+   }
+   h2{
+    font-size: 50px;
+    margin: 0;
+   }
+   img{
+    height: 100vh;
+   }
